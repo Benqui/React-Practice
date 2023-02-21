@@ -1,2 +1,2 @@
 # React-Practice
-Real-state app frontend
+Understanding React JS 
